@@ -1,8 +1,8 @@
 # NTU-SC1015-Steam-Data-Insights-
-![STEAM GAMES BANNER](https://cdn.neowin.com/news/images/uploaded/2019/03/1551472892_6_story.jpg)
+![STEAM Stock Image](images/steam_stock_photo.jpg)
 
 ## Contributors
-- Soh Zi Xiang: Review Sentimental Analysis, LDA, Random Forest Classifier 
+- Soh Zi Xiang - Review Sentimental Analysis, LDA, Random Forest Classifier 
 
 ## Problem Definition
 
@@ -22,3 +22,4 @@
 - [Unsupervised NLP: Topic Models as a Supervised Learning Input](https://towardsdatascience.com/unsupervised-nlp-topic-models-as-a-supervised-learning-input-cf8ee9e5cf28)
 - [Steam Reviews Dataset](https://www.kaggle.com/datasets/andrewmvd/steam-reviews)
 - [Steam Games Reviews Analysis - Sentiment Analysis](https://www.kaggle.com/code/danielbeltsazar/steam-games-reviews-analysis-sentiment-analysis)
+- https://unsplash.com/photos/a-computer-mouse-on-a-white-surface-ODDeVEZGEfs
