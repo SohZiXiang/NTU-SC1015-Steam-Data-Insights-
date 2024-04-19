@@ -4,12 +4,13 @@
 ## Contributors
 - Soh Zi Xiang - Review Sentimental Analysis, LDA, Random Forest Classifier
 - Teng Zi En - Steam Games Data Analysis, Visualization of the Relationship between Numeric/Categorical Columns with number of Positive & Negative Reviews
-- -Tan Kia Chun - Developed the Positive Negative Review Prediction model using decision tree classifiers, and managed data preprocessing and feature selection.
+- Tan Kia Chun - Developed the Positive Negative Review Prediction model using decision tree classifiers, and managed data preprocessing and feature selection.
 
 ## Problem Definition
-
+Our project aims to analyze sentiments in user-generated Steam reviews, offering valuable insights for gamers and developers alike
 
 ## Conclusion
+In the end, focusing on what players really care about—like making controls easier, improving graphics, and creating fun gameplay—can lead to better reviews for developers. By making games more accessible, listening to players, testing games well, and building strong communities, developers can make sure players love their games and give them great reviews
 
 ## What did we learn from this project?
 - Handling imbalanced datasets using resampling methods using SMOTE, RandomUnderSampler & Pipeline
