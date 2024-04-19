@@ -2,7 +2,8 @@
 ![STEAM Stock Image](images/steam_stock_photo.jpg)
 
 ## Contributors
-- Soh Zi Xiang - Review Sentimental Analysis, LDA, Random Forest Classifier 
+- Soh Zi Xiang - Review Sentimental Analysis, LDA, Random Forest Classifier
+- Teng Zi En - Steam Games Data Analysis, Visualization of the Relationship between Numeric/Categorical Columns with number of Postive & Negative Reviews
 
 ## Problem Definition
 
