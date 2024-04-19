@@ -12,12 +12,16 @@ Our project aims to analyze sentiments in user-generated Steam reviews, offering
 ## Conclusion
 In the end, focusing on what players really care about—like making controls easier, improving graphics, and creating fun gameplay—can lead to better reviews for developers. By making games more accessible, listening to players, testing games well, and building strong communities, developers can make sure players love their games and give them great reviews
 
+The pivotal role that nuanced features like 'Game Age' and 'Achievements' play in predicting game reviews, with the models achieving up to 76% accuracy. The insights gained underscore the potential of machine learning to guide game development and marketing strategies. 
+
 ## What did we learn from this project?
 - Handling imbalanced datasets using resampling methods using SMOTE, RandomUnderSampler & Pipeline
 - Word Cloud visualization
 - Latent Dirichlet Allocation (LDA) using Gensim
 - Concept of F1 Score 
 - Integration using github
+- Feature Importance Understanding
+- Data Preprocessing
 
 ## References
 - [Topic Modeling and Latent Dirichlet Allocation (LDA) using Gensim and Sklearn](https://www.analyticsvidhya.com/blog/2021/06/part-2-topic-modeling-and-latent-dirichlet-allocation-lda-using-gensim-and-sklearn/)
