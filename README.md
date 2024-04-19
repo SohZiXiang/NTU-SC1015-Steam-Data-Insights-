@@ -3,7 +3,8 @@
 
 ## Contributors
 - Soh Zi Xiang - Review Sentimental Analysis, LDA, Random Forest Classifier
-- Teng Zi En - Steam Games Data Analysis, Visualization of the Relationship between Numeric/Categorical Columns with number of Postive & Negative Reviews
+- Teng Zi En - Steam Games Data Analysis, Visualization of the Relationship between Numeric/Categorical Columns with number of Positive & Negative Reviews
+- -Tan Kia Chun - Developed the Positive Negative Review Prediction model using decision tree classifiers, and managed data preprocessing and feature selection.
 
 ## Problem Definition
 
