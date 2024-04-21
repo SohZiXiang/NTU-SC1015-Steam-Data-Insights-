@@ -35,7 +35,7 @@ Publishers have the greatest influence on review count as people will tend to pl
 - [Unsupervised NLP: Topic Models as a Supervised Learning Input](https://towardsdatascience.com/unsupervised-nlp-topic-models-as-a-supervised-learning-input-cf8ee9e5cf28)
 - [Steam Reviews Dataset](https://www.kaggle.com/datasets/andrewmvd/steam-reviews)
 - [Steam Games Reviews Analysis - Sentiment Analysis](https://www.kaggle.com/code/danielbeltsazar/steam-games-reviews-analysis-sentiment-analysis)
-- ["Steam gaming platform - Statistics & Facts"](https://www.statista.com/topics/4282/steam/#topicOverview)
+- [Steam gaming platform - Statistics & Facts](https://www.statista.com/topics/4282/steam/#topicOverview)
 - [README Image](https://unsplash.com/photos/a-computer-mouse-on-a-white-surface-ODDeVEZGEfs)
 - ["5 Most Useful Techniques to Handle Imbalanced Datasets"](https://www.kdnuggets.com/2020/01/5-most-useful-techniques-handle-imbalanced-datasets.html)
 
